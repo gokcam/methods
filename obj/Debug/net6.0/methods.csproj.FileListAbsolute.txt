@@ -1,0 +1,15 @@
+C:\Users\90542\Desktop\Pratikler Devam\methods\bin\Debug\net6.0\methods.exe
+C:\Users\90542\Desktop\Pratikler Devam\methods\bin\Debug\net6.0\methods.deps.json
+C:\Users\90542\Desktop\Pratikler Devam\methods\bin\Debug\net6.0\methods.runtimeconfig.json
+C:\Users\90542\Desktop\Pratikler Devam\methods\bin\Debug\net6.0\methods.dll
+C:\Users\90542\Desktop\Pratikler Devam\methods\bin\Debug\net6.0\ref\methods.dll
+C:\Users\90542\Desktop\Pratikler Devam\methods\bin\Debug\net6.0\methods.pdb
+C:\Users\90542\Desktop\Pratikler Devam\methods\obj\Debug\net6.0\methods.csproj.AssemblyReference.cache
+C:\Users\90542\Desktop\Pratikler Devam\methods\obj\Debug\net6.0\methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90542\Desktop\Pratikler Devam\methods\obj\Debug\net6.0\methods.AssemblyInfoInputs.cache
+C:\Users\90542\Desktop\Pratikler Devam\methods\obj\Debug\net6.0\methods.AssemblyInfo.cs
+C:\Users\90542\Desktop\Pratikler Devam\methods\obj\Debug\net6.0\methods.csproj.CoreCompileInputs.cache
+C:\Users\90542\Desktop\Pratikler Devam\methods\obj\Debug\net6.0\methods.dll
+C:\Users\90542\Desktop\Pratikler Devam\methods\obj\Debug\net6.0\ref\methods.dll
+C:\Users\90542\Desktop\Pratikler Devam\methods\obj\Debug\net6.0\methods.pdb
+C:\Users\90542\Desktop\Pratikler Devam\methods\obj\Debug\net6.0\methods.genruntimeconfig.cache
